@@ -10,7 +10,7 @@ Ainda estou no começo, mas estou comprometida em aprender um pouco mais todos o
 
 ## 🔗 Conecte-se Comigo
 <div> 
-  <a href = "mailto:le1771351@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:le1771351@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/letícia-araújo-48b345303/?trk=opento_sprofile_topcard" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <div> 
 
